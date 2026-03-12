@@ -1,4 +1,3 @@
-hello world 
-second line
+hello from master branch
 second line
 this is feature-1 work
