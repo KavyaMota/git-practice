@@ -1,4 +1,6 @@
-hello from both branches
 second line
 this is feature-1 work
 ui feature started
+second line
+login feature started
+>>>>>>> feature-login
